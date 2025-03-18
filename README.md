@@ -14,8 +14,8 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 Numero push minimo: 4
 
 Consigli del giorno:
--scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
--proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
+- scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
+- proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
 
 
