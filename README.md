@@ -34,3 +34,5 @@ Consigli del giorno:
   - IF numero divisibile SOLO per 5. Stampo "Buzz"
   - IF numero divisibile SIA per 3 SIA per 5. Stampo "FizzBuzz"
   - ELSE. Stampo il numero.
+
+  <!-- DONE -->
