@@ -1,6 +1,6 @@
-<!-- ********************* -->
-<!--       ESERCIZO        -->
-<!-- ********************* -->
+*****************************************
+                ESERCIZIO                
+*****************************************
 
 Esercizio di oggi: FizzBuzz
 nome repo: js-fizzbuzz
@@ -18,6 +18,19 @@ Consigli del giorno:
 -scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 -proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
-<!-- ********************* -->
-<!--      SVOLGIMENTO      -->
-<!-- ********************* -->
+
+
+*****************************************
+               SVOLGIMENTO               
+*****************************************
+
+- Definisco le variabili per:
+  - numero generico
+  - numero divisibile per 3
+  - numeri divisibile per 5
+
+- Eseguo un ciclo FOR per i numeri da 1 a 100.
+  - IF numero divisibile SOLO per 3. Stampo "Fizz"
+  - IF numero divisibile SOLO per 5. Stampo "Buzz"
+  - IF numero divisibile SIA per 3 SIA per 5. Stampo "FizzBuzz"
+  - ELSE. Stampo il numero.

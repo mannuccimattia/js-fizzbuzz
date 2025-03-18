@@ -7,13 +7,13 @@ let numBuzz = "Buzz";
 for(let i=1; i<=100; i++){
   num = num + 1;
   
-  if(num % 3 === 0 && num % 5 !== 0){         
+  if(num % 3 === 0 && num % 5 !== 0){         //se divisibile SOLO per 3
     console.log(numFizz);
   }
-  else if(num % 5 === 0 && num % 3 !== 0){    
+  else if(num % 5 === 0 && num % 3 !== 0){    //se divisibile SOLO per 5
     console.log(numBuzz);
   }
-  else if(num % 3 === 0 && num % 5 ===0){     
+  else if(num % 3 === 0 && num % 5 ===0){     //se divisibile SIA per 3 SIA per 5   
     console.log(numFizz+numBuzz);
   }
   else{
