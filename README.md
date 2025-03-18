@@ -1,6 +1,5 @@
-*****************************************
-                ESERCIZIO                
-*****************************************
+
+ESERCIZIO:
 
 Esercizio di oggi: FizzBuzz
 nome repo: js-fizzbuzz
@@ -21,8 +20,7 @@ Consigli del giorno:
 
 
 *****************************************
-               SVOLGIMENTO               
-*****************************************
+SVOLGIMENTO:
 
 - Definisco le variabili per:
   - numero generico
